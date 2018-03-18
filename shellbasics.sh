@@ -1,7 +1,7 @@
 #! /usr/local/bin/bash
 
 #echo "hello world"
-
+#
 #echo shell name is $BASH
 #echo shell version is $BASH_VERSION
 # echo home dr is $HOME
